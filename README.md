@@ -6,6 +6,8 @@ A data-driven approach to job hunting. This project includes resume and cover le
 
 - `resumes/` – Tailored resumes and cover letters for different roles and industries.
 - `scripts/` – Automation tools and helper scripts for job tracking and metrics.
+  
+  📌 [job_tracker.py](scripts/job_tracker.py) – Simple Python script that runs a job tracker and prints stats to the console.
 - `trackers/` – Application tracking templates, interview logs, and offer tracking spreadsheets.
 - `visualizations/` – Power BI/Tableau visuals showing application trends, response rates, and more.
 
