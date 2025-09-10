@@ -14,8 +14,3 @@ A data-driven approach to job hunting. This project includes resume and cover le
 This repository serves as both a personal toolkit and a public example of how data analytics can be applied to the job search process. It blends organization, creativity, and storytelling to turn a stressful process into an insightful one.
 
 ---
-
-Let me know if you’d like:
-- custom icons/emojis next to each section
-- a GitHub-style badge (e.g., “Built with ❤️ using Power BI & Excel”)
-- help turning the visualizations into interactive HTML previews
