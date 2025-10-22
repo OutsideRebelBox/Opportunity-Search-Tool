@@ -35,6 +35,17 @@ This project combines data, automation, and visualization tools to make the job 
 - `openpyxl` – Reading/writing Excel files  
 - `tabulate` – Console-based tabular reporting  
 
+## ▶️ Usage
+
+`job_tracker.py` reads your job applications file and prints quick stats (applications by status, response rates, and time-to-response). It can also filter by date or export a summary.
+
+### 1) Prerequisites
+- Python 3.10+  
+- Packages: `pandas`, `tabulate`  
+- (Optional) Install via:
+  ```bash
+  pip install pandas tabulate
+
 ---
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Built With](https://img.shields.io/badge/built%20with-Excel%20%7C%20Power%20BI%20%7C%20Tableau-blue)
