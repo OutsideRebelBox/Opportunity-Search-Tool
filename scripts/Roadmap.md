@@ -2,7 +2,7 @@
 
 ### ✅ Phase 1: Strengthen the Foundation  
 - [x] Add a LICENSE file  
-- [ ] Create a Technologies Used section in README  
+- [x] Create a Technologies Used section in README  
 - [ ] Add a Usage section for job_tracker.py  
 - [ ] Upload a sample dataset (CSV of fake job applications)  
 
