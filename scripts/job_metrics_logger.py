@@ -2,7 +2,7 @@ import csv
 from datetime import datetime
 
 # Define your CSV file path
-CSV_FILE = "job_applications.csv"
+CSV_FILE = "applications.csv"
 
 # Define the job application entry
 job_entry = {
