@@ -45,6 +45,28 @@ This project combines data, automation, and visualization tools to make the job 
 - (Optional) Install via:
   ```bash
   pip install pandas tabulate
+  ```
+### 2) Run the Script
+
+From the project root folder, run:
+
+```bash
+python scripts/job_tracker.py --input trackers/applications.csv
+```
+  
+### 3) Example Output
+```text
+============== Job Tracker Summary ==============
+Total applications: 21
+
+By status:
+| Status  | Count |
+|----------|-------|
+| applied  | 21    |
+
+Response rate: 0.0%
+=================================================
+```
 
 ---
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
