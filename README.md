@@ -17,6 +17,23 @@ This repository serves as both a personal toolkit and a public example of how da
 
 📌 See the full [Project Roadmap](scripts/Roadmap.md) for upcoming features.
 
+## 🧰 Technologies Used
+
+This project combines data, automation, and visualization tools to make the job search process measurable and efficient.  
+
+**Languages & Tools**  
+- 🐍 **Python** – Core scripting for job tracking, automation, and data cleaning (`job_tracker.py`, `scripts/` folder).  
+- 📊 **Power BI / Tableau** – Visualization of application metrics, response trends, and success rates.  
+- 📈 **Excel / VBA** – Application tracking templates, pivot tables, and macros for manual or offline workflows.  
+- 🗃️ **SQL (Planned)** – Querying and summarizing job application datasets for analysis.  
+- 📉 **R (Planned)** – Statistical analysis and trend visualization (response patterns, conversion rates).  
+- 💻 **GitHub Actions** – Workflow automation and repository maintenance.  
+
+**Supporting Libraries**  
+- `pandas` – Data manipulation and CSV handling  
+- `matplotlib` / `seaborn` – Basic visualization (for Python scripts)  
+- `openpyxl` – Reading/writing Excel files  
+- `tabulate` – Console-based tabular reporting  
 
 ---
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
